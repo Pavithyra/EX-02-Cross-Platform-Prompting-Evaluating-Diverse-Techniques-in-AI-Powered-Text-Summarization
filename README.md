@@ -23,31 +23,31 @@ Llama 3 (Open-source model)
 Scenario 1: General Knowledge
 Broad Prompt: "Tell me about AI."
 Key Findings
-1.
-Broad Prompts vs. Refined Prompts:
-o
-GPT-4 and Claude adapt well to both, but provide significantly deeper insights when given a structured prompt.
-o
-Gemini and Llama 3 perform better when given refined prompts, struggling with depth on broad queries.
-2.
-Accuracy:
-o
-All models were generally accurate, but open-source models like Llama 3 sometimes provided less precise answers in unstructured queries.
-3.
-Depth of Response:
-o
-GPT-4 consistently delivered the deepest responses, especially with refined prompts.
-o
-Claude performed well in logical reasoning and creativity.
-o
-Gemini struggled slightly with depth but performed adequately.
-o
-Llama 3 required very specific prompting for best results.
+
+1.Broad Prompts vs. Refined Prompts:
+
+oGPT-4 and Claude adapt well to both, but provide significantly deeper insights when given a structured prompt.
+
+oGemini and Llama 3 perform better when given refined prompts, struggling with depth on broad queries.
+
+2.Accuracy:
+
+oAll models were generally accurate, but open-source models like Llama 3 sometimes provided less precise answers in unstructured queries.
+
+3.Depth of Response:
+oGPT-4 consistently delivered the deepest responses, especially with refined prompts.
+
+oClaude performed well in logical reasoning and creativity.
+
+oGemini struggled slightly with depth but performed adequately.
+
+oLlama 3 required very specific prompting for best results.
 
 ## Result
+
 For general use cases, GPT-4 and Claude are the best choices, with GPT-4 leading in technical and deep knowledge.
-•
-For more structured and technical explanations, Claude and Gemini can perform well if given clear instructions.
-•
-For open-source alternatives, Llama 3 works decently but struggles without explicit prompting.
+
+•For more structured and technical explanations, Claude and Gemini can perform well if given clear instructions.
+
+•For open-source alternatives, Llama 3 works decently but struggles without explicit prompting.
 
